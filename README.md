@@ -1,4 +1,4 @@
-# Baraka Project - Todo List Application
+Todo List Application
 
 A modern, feature-rich todo list application built with React, TypeScript, and Tailwind CSS. Features a sleek dark UI with gradient accents, task management, and persistent local storage.
 
